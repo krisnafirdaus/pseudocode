@@ -1,0 +1,11 @@
+Buatlah Algoritma untuk menyelesaikan problem ini
+David memiliki program yang membutuhkan untuk convert data dari jumlah jam ke detik
+Contohnya jika program memiliki input 2 jam maka output yang diharapkan adalah 7200 detik
+
+Jawaban
+
+STORE 'jam' with any value
+
+CALCULATE 'jam' * '60
+SET 'detik' with calculation result
+DISPLAY 'detik'
